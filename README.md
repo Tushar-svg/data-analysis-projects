@@ -14,7 +14,7 @@ A curated collection of Python-based data analysis projects focused on explorato
 ### 2. Titanic Survival Analysis
 - Folder: `titanic-analysis-project`
 - Dataset: `train.csv`
-- Notebooks: `analysis.ipynb`, `visualizations.ipynb`
+- Notebooks: `analysis.ipynb`
 - Objective: Analyze survival patterns in the Titanic dataset using passenger class, gender, age, fare, and other passenger details.
 - Dataset size: 891 rows, 12 columns
 
@@ -38,7 +38,6 @@ data-analysis-projects/
 │   └── StudentsPerformance.csv
 └── titanic-analysis-project/
     ├── analysis.ipynb
-    ├── visualizations.ipynb
     └── train.csv
 ```
 
